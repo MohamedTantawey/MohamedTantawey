@@ -61,7 +61,7 @@
 ---
 
 ### 🌐 Personal Website
-> [My Profile]([https://yourportfolio.com](https://github.com/MohamedTantawey/Portfolio/settings/pages))
+> [MyProfile.com]([https://yourportfolio.com](https://github.com/MohamedTantawey/Portfolio/settings/pages))
 
 ---
 
