@@ -61,7 +61,6 @@
 
 ---
 
-<br clear="both">
+<img src="video games atari GIF by myles.gif" alt="Snake animation" width="1100px" />
 
-<img src="video games atari GIF by myles.gif" alt="Snake animation" />
 
