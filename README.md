@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
 <h3 align="center">A passionate Front-End Developer, UI/UX Designer, and IT Specialist</h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mohamedusername/mohamedusername/main/banner.png" alt="Banner" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
