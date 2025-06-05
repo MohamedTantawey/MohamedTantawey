@@ -25,12 +25,14 @@
 
 ---
 
+
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedusername&show_icons=true&theme=radical" alt="Mohamed's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedusername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedTantawey&show_icons=true&theme=radical" alt="Mohamed's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedTantawey&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
 
 ---
 
