@@ -42,8 +42,8 @@
   <a href="https://www.linkedin.com/in/mohamed-gamal-025435359" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter" />
+  <a href="https://www.instagram.com/.mohamed.gamal.?utm_source=qr&igsh=MTRveXE1dHE0OG1mcw==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram" />
   </a>
   <a href="mailto:ahmedyossef158@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white" />
@@ -54,14 +54,14 @@
 
 ### 🔧 Featured Projects
 
-- [Hospital Management System (Java)](https://github.com/yourusername/Hospital)
+- [Hospital Management System (Java)](https://github.com/MohamedTantawey/Hospital)
 - [My UI/UX Designs Portfolio](https://yourportfolio.com)
-- [Frontend E-commerce Project](https://github.com/yourusername/ecommerce-ui)
+- [CRUD Operation]( https://mohamedtantawey.github.io/CRUD-Operation/)
 
 ---
 
 ### 🌐 Personal Website
-> [yourportfolio.com](https://yourportfolio.com)
+> [My Profile]([https://yourportfolio.com](https://github.com/MohamedTantawey/Portfolio/settings/pages))
 
 ---
 
